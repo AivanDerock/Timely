@@ -95,6 +95,7 @@ footer {
   section {
     width: 95%;
     padding: 15px;
+    box-shadow: none;
   }
 
   img {
